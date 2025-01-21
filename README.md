@@ -29,3 +29,7 @@ Deployment to a live server (Heroku, Netlify, or AWS)
 
 # Contribution
 Feel free to fork the repo, create an issue, or submit a pull request to contribute to this project.
+
+# ScreenShots
+![To-Do App Screenshot](todo-app-screenshot.png)
+
